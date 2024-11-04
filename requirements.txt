@@ -25,7 +25,7 @@ flask-nav==0.6
 Flask-SocketIO==3.3.2
 Flask-WTF==0.14.2
 ftfy==5.6
-gevent==1.4.0
+gevent==24.10.1
 gevent-websocket==0.10.1
 greenlet==0.4.15
 html5lib==1.0.1
